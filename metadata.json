@@ -1,0 +1,6 @@
+{
+  "name": "Deadzone Bastion",
+  "description": "Tactical 60fps zombie tower defense game with physics particles, synthesized Web Audio feedback, upgradeable turret emplacements, and multi-sector survival waves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
